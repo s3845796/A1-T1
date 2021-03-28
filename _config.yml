@@ -1,17 +1,77 @@
-theme: jekyll-theme-minimal
+<!DOCTYPE html>
 <html>
 <head>
 <title>SHUYUNLI A1</title>
 </head>
+<style>
+body {
+   background-color: #8EAFD1;
+}
+</style>
 <body>
-<h1>My IT Profile</h1> [My background]
-<p>ShuyunLi(Julie)
-Student id:s3845796
-E-mail: s3845796@sdudent.rmit.edu.au
-</p> This is an IT beginner which is who study the second year at RMIT, which means she still has a lot of things need to study in IT.
-<h1>Interest in IT</h1>
-<p>Since I was prepared for my College entrance examination I started interested in IT because my math teacher is a graduate of the IT program at university told me a lot. IT is No matter it has always been a high-paying profession, the more important fact is that the IT industry covers a wide range, including IT hardware equipment, software development, etc. At the same time, the IT industry is also being combined with a large number of traditional industries. In addition, the development of artificial intelligence, cloud computing, big data and other technologies in recent years has given IT The industry has brought new development opportunities. It can be said that the development space and development potential of the IT market are endless.
-I chose RMIT because after a long term decision I heard from my agent that RMIT has a long term history and an excellent IT teaching environment, I find I need to study something new so I choose the RMIT IT program. Also, the city compass is nearby my apartment. I hope I can learn more python method through my RMIT study life.
+<main>
+<center>
+<div class="intro"> 
+<font color ="white">
+<h1><font color =“#D6E0FF”>My IT Profile</h1></font color =“#D6E0FF”>
+<h2><font color =“#CCFFF”>ShuYunLi(Jlie)</font color =“#CCFFF”></h2>
+<h3>Student id:</h3>s3845796
+<h3>E-mail:</h3> s3845796@sdudent.rmit.edu.au
+<h3>Introduction</h3>
+<p> This is an IT beginner which is who study the second year at RMIT, which means still has a lot of things need to study in IT.</p>
+<h1><font color =“#D6E0FF”>Personal Infomation</font color =“#D6E0FF”></h1>
+<img src="id.jpg" width="400" height="330">
+<p><font size="2">This is me in the high school Japanese class.</font size="2"></p>
+<p>My given name is ShuyunLi, I am Chinese, this is my second year at RMIT. Because Covid 2021 also my second year in China with the online classes, I am looking forward to coming back to the RMIT compass.
+I was graduated from Elwood college, my main search was on language, I was studying Japanese for 2 years when high school.
+I enjoy music, cooking, pc games and love to meet new friends, I have a pet dog in my house, named her Zhuanzhuan.
 </p>
+<img src="dog、.jpg" width="400" height="280">
+<h1><font color =“#D6E0FF”>Interest in IT</font color =“#D6E0FF”></h1>
+<p>Since I was prepared for my College entrance examination I started interested in IT because my math teacher is a graduate of the IT program at university told me a lot.
+ IT is No matter it has always been a high-paying profession, the more important fact is that the IT industry covers a wide range, including IT hardware equipment, software development, etc.
+ At the same time, the IT industry is also being combined with a large number of traditional industries. In addition, the development of artificial intelligence, 
+ cloud computing, big data and other technologies in recent years has given IT The industry has brought new development opportunities. It can be said that the development space and development potential of the IT market are endless.
+I chose RMIT because after a long term decision I heard from my agent that RMIT has a long term history and an excellent IT teaching environment, 
+I find I need to study something new so I choose the RMIT IT program. Also, the city compass is nearby my apartment.
+ I hope I can learn more python method through my RMIT study life.
+</p>
+<h1><font color =“#D6E0FF”>Idea Job</font color =“#D6E0FF”></h1>
+<p>Product manager</p>
+<img src="job.png"width="400" height="150">
+<p>
+<a href="https://www.seek.com.au/job/51676127?type=standout#searchRequestToken=3b0671fc-cf0c-4304-9865-42f7b4edd6ac" target="_blank" rel="noopener noreferrer">Access the job search interface</a>
+</p>
+<h4>Description</h4>
+<p>In this case is to be manager which need to lead teams to design candidate journeys to promote high-level interactions with different SEEK target audiences and work closely with key stakeholders (including delivery, AI, marketing, GTM, and strategy), to deliver products with long-term external communication and SEEK service strategy. Plans for the entire Asia Pacific region. Product managers need to have the ability to identify applicants suitable for the project, accurately communicate procedures with suitable candidates, have the ability to analyze competing products and be able to lead the team to design a small product. This part attracted me because I really want to try to lead the task of a team. As a project manager, I need to accurately communicate the elements of the task to the programmer.
+</p>
+<h4>The Skill I Have</h4>
+<p>I can listen patiently the right way from others and can make simple and easy-to-understand ppt.</p>
+<h4>The Skill I Need</h4>
+<p>To be a senior product manager, therefore, I need to have the ability to design the system independently. I hope to work hard towards this, I also need to learn the agile development process, look at the general direction, and look at industry trends.
+</p>
+<h3>Future Learning Plan.</h3>
+<p>I now have a basic understanding of programming. I hope to be able to master more IT skills before the next semester. The internship will start with a junior product manager so that I can familiarize myself with the future workflow, accumulate business knowledge and understanding of the product, collect user feedback, etc., in conclusion, accumulate from the beginning.
+</p>
+<h1><font color =“#D6E0FF”>Personality Profile</font color =“#D6E0FF”></h1>
+<h2>Myers Briggs Type Indicator</h2>
+<img src="16.png"width="450" height="300">
+<p><font size ="2">ISFP type students generally like subjects that can be hands-on (chemistry) or practical tools (such as English), especially art subjects.
+</font size ="2"></p>
+<h2>Test Two</h2>
+<img src="test.png"width="500" height="450">
+<h2>Test Three</h2>
+<img src="test2.png"width="450" height="400">
+<img src="test22.png"width="450" height="400">
+<h4>Strengths</h4>
+<p>The advantages are rich emotions, strong empathy, ISFP is good at being a listener and good at imitating. And always enthusiastic, loyal,  paying attention to the main details, (especially those related to others), being thoughtful, and paying attention to the current required abilities, Actively willing to support the organization’s goals, carefully assess the orientation and initiative when taking risks and trying new methods.
+</p>
+<h4>Weaknesses</h4>
+<p>The disadvantage is excessive perfectionism, accepting only the superficial phenomena of things and ignoring the possibility of deep hints of things, difficulty to make decisions, hardly making long-term plans, more easily scattered short-term plans, and not good at socializing.
+</P>
+<h4>Team Composition And Outcome</h4>
+<p>I think I am not good at being a leader, but I can serve as an important member of the organization, a decision maker. The natural strengths that come out of the team are: support and help others, find solutions for seemingly rigid projects or interpersonal relationships, do the win-win negotiations, and use more effective communication methods or more other methods to solve the problems.When I make a project in a team, I can do revision, and summarizing the identity of the team’s tasks, and making temporary decisions for the team. Because my efficiency is not high, I should avoid to do the work that need high efficiency.</p>
+</font color ="white">
+</center>
 </body>
 </html>
